@@ -1,0 +1,24 @@
+/*
+ Theme Name:     SIU Divi Child Theme
+ Theme URI:      https://www.elegantthemes.com/gallery/divi/
+ Description:    SIU Divi Child Theme
+ Author:         Elegant Themes
+ Author URI:     https://www.elegantthemes.com
+ Template:       Divi
+ Version:        1.0.0
+*/
+
+/* =Theme customization starts here
+------------------------------------------------------- */
+.entry-title a {
+  color: #f92c8b !important;
+}
+
+.lwp-hide-mobile-menu.et_pb_menu .et_pb_menu__menu,
+.lwp-hide-mobile-menu.et_pb_fullwidth_menu .et_pb_menu__menu {
+  display: flex !important;
+}
+
+.lwp-hide-mobile-menu .et_mobile_nav_menu {
+  display: none;
+}
