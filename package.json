@@ -1,0 +1,13 @@
+{
+  "name": "siu-child-theme",
+  "version": "0.1.2",
+  "description": "Child theme template for Divi",
+  "main": "One-Halfacre",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/One-HalfAcre/siu-wordpress-child.git"
+  }
+}
